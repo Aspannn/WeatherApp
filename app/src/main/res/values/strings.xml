@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_location">Enter location</string>
+    <string name="aqi">AQI %d</string>
+    <string name="max_min_temp">%d° / %d°</string>
+    <string name="cur_temp">%d°</string>
+    <string name="not_found_placeholder">Извините, но по вашему запросу города не найдены. Введите полное название города и попробуйте снова</string>
+</resources>
